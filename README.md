@@ -89,7 +89,7 @@ _Tags: PHP, MySQL, Responsive Design_
 N'hésitez pas à me contacter pour toute opportunité de collaboration ou juste pour dire bonjour !
 
 - **GitHub**: [SoulaimanDev](https://github.com/SoulaimanDev)
-- **Email**: [Votre Email Ici] (Optional: Update with actual email if desired)
+- **Email**: [chair.soulaiman.map@gmail.com] 
 
 ---
 <div align="center">
